@@ -1,7 +1,3 @@
-# c-and-cpp [master]
+# code-library [master]
 
-c and cpp basic programming structure
-
-## c/c++ programming branches
-* c-programming
-* cpp-programming
+C, CPP(C++), Python Programming
